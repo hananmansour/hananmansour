@@ -18,9 +18,9 @@ About me: </h2>
  <h4>
 <br>
   <br>
-  - 🌱 I’m currently looking for a new role as junior DevOps engineer<br>
+  - 🌱 I’m currently looking for a new role as System Administrator or DevOps engineer<br>
 - 👯 I’m focusing on improving my DevOps skills. <br>
- - 💬 Ask me about any skill i have , I will be happy to help.
+ - 💬 Ask me about any skill I have, and I will be happy to help.
  
 
   </h4>
