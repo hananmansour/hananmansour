@@ -1,6 +1,6 @@
 <h1 align=center> Hi there 👋<h1>
 <br>
- Iam Hanan , A passionate DevOps Engineer , from Egypt.
+ I am Hanan, A passionate DevOps Engineer, from Egypt.
 <br>
 <br>
 <br>
@@ -30,7 +30,7 @@ About me: </h2>
   
 
  <div id="badges">
-  - 📫 How to reach me: <a href="www.linkedin.com/in/hanan-mansour-abdelghafar/">
+  - 📫 How to reach me: <a href="[www.linkedin.com/in/hanan-mansour-abdelghafar/](https://www.linkedin.com/in/hanan-mansour-abdelghafar/)">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Badge" height="20" width="40"/>
   </a>
    
